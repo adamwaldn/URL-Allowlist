@@ -22,3 +22,6 @@ sto3.spotify.com
 www.audio2.spotify.com
 guc3-dealer.spotify.com	
 www.spotify.com
+login5.spotify.com
+community.spotify.com
+open.spotifycdn.com
