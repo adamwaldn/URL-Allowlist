@@ -1,4 +1,3 @@
-	
 apresolve.spotify.com
 dealer.spotify.com
 gue1-dealer.spotify.com
