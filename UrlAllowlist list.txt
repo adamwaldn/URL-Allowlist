@@ -28,3 +28,4 @@ open.spotifycdn.com
 api.spotify.com
 googleadservices.com
 ad.doubleclick.net
+googleads.g.doubleclick.net
