@@ -26,3 +26,4 @@ login5.spotify.com
 community.spotify.com
 open.spotifycdn.com
 api.spotify.com
+googleadservices.com
