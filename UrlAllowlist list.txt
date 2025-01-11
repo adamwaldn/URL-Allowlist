@@ -27,3 +27,4 @@ community.spotify.com
 open.spotifycdn.com
 api.spotify.com
 googleadservices.com
+ad.doubleclick.net
