@@ -28,6 +28,7 @@ open.spotifycdn.com
 api.spotify.com
 googleadservices.com
 ad.doubleclick.net
+iot.us-west-2.amazonaws.com
 googleads.g.doubleclick.net
 lh3.googleusercontent.com
 ec2-52-41-7-24.us-west-2.compute.amazonaws.com
